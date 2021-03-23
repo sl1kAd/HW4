@@ -40,7 +40,6 @@ int main()
 
 int main1()
 {
-	setlocale(LC_ALL, "Russian");
 
 	int b, a, c;
 
@@ -91,7 +90,6 @@ int main2()
 
 int main3()
 {
-	setlocale(LC_ALL, "Russian");
 
 	int n, i;
 
@@ -128,7 +126,6 @@ int main3()
 
 int main()
 {
-	setlocale(LC_ALL, "Russian");
 
 	int year;
 
